@@ -492,3 +492,7 @@ checkcode('ColorKit.m', ...
 - 用户 metadata 覆盖项存放在 `ColorKit_UserMetadata.m`。
 - 内置 palette 使用中性的颜色属性命名；用户新增 palette 可以自由设置名称和 `paletteGroup`。
 - `ramp` 不是一套单独的配色库，只是“按指定长度获取某个命名配色”的可读别名。
+
+## 许可证
+
+本项目基于 [MIT License](LICENSE) 开源发布。

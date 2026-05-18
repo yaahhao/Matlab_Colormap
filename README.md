@@ -492,3 +492,7 @@ checkcode('ColorKit.m', ...
 - User metadata overrides are stored in `ColorKit_UserMetadata.m`.
 - Built-in palette names use neutral color-property names. User palettes may use any name and any `paletteGroup` metadata.
 - `ramp` is not a separate palette library. It is only a readable alias for requesting a named palette at a specified length.
+
+## License
+
+This project is released under the [MIT License](LICENSE).
