@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文](README_CN.md)
 
+![ColorKit 封面图](Figures/ColorKit_cover_hd.png)
+
 作者：zhaoyh  
 Email：zhao2025@mail.sustech.edu.cn
 
